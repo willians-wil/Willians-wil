@@ -1,6 +1,7 @@
 # 💫 About Me:
 <b>Hi there</b> :blush:
 </br>
+<br>
 Eu sou o Willians Narciso, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
@@ -19,16 +20,24 @@ Eu sou o Willians Narciso, sou um programador Front End, atualmente estou aprend
 
 <br>
 <br>
-Connect with me:
+<b>Connect with me:</b>
 <br>
 <a href="https://www.linkedin.com/feed/"><img src="https://github.com/user-attachments/assets/98e0e58a-4758-4c8a-a8e2-93d37d03db5c" width=42px align=left /></a>
 <br>
 <br>
-Language and Tools:
+<b>Language and Tools:</b>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiOkG5qObSaBm5lg--xFyn4MLW8fyFpbbWg&s" alt="image-logo-languages-markup" width=130px />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willians-wil&langs_count=8)
 <br>
 <br>
+![Willians stats](https://github-readme-stats.vercel.app/api?username=Willians-wil&theme=discord_old_blurple&show_icons=true)
+<br>
+<br>
+<img src="https://views-counter.vercel.app/badge?pageId=Willians-wil%2FViews-Counter" alt="Views Counter" width=110px align=left>
+
+
 
 
 
