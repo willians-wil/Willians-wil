@@ -32,7 +32,7 @@ Eu sou o Willians Narciso, sou um programador Front End, atualmente estou aprend
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willians-wil&langs_count=8)
 <br>
 <br>
-![Willians stats](https://github-readme-stats.vercel.app/api?username=Willians-wil&theme=discord_old_blurple&show_icons=true)
+![Willians stats](https://github-readme-stats.vercel.app/api?username=Willians-wil&theme=gotham&show_icons=true)
 <br>
 <br>
 <img src="https://views-counter.vercel.app/badge?pageId=Willians-wil%2FViews-Counter" alt="Views Counter" width=110px align=left>
