@@ -2,7 +2,7 @@
 <b>Hi there</b> :blush:
 </br>
 <br>
-Eu sou o Willians Narciso, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Sou desenvolvedor Frontend, com experiência prática em projetos Full Stack utilizando Node.js.
 
 <br>
 <br>
