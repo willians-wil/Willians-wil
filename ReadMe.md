@@ -40,6 +40,18 @@ Sou desenvolvedor Frontend, com experiência prática em projetos Full Stack uti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" />
 </p>
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=willians-wil&show_icons=true&theme=gotham" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willians-wil&layout=compact&theme=gotham&langs_count=6" />
+
+
+
+<img src="https://komarev.com/ghpvc/?username=willians-wil&color=0f4c75&style=flat-square" />
+
+
+
+
+
 
 
 
