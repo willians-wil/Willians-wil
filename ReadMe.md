@@ -1,8 +1,8 @@
-# 💫 About Me:
-<b>Hi there</b> :blush:
-</br>
-<br>
+## 💫 About Me
+
 Sou desenvolvedor Frontend, com experiência prática em projetos Full Stack utilizando Node.js.
+Atuo com JavaScript, React e Node, focando em boas práticas, código limpo e construção de aplicações funcionais e escaláveis.
+
 
 <br>
 <br>
